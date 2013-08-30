@@ -1,12 +1,12 @@
 # coding: utf-8
 lib = File.expand_path('../lib', __FILE__)
 $LOAD_PATH.unshift(lib) unless $LOAD_PATH.include?(lib)
-require 'iclickerpoll/snazzy/version'
+require 'iclicker/session/version'
 
 Gem::Specification.new do |spec|
-  spec.name          = "iclickerpoll-snazzy"
-  spec.version       = Iclickerpoll::Snazzy::VERSION
-  spec.authors       = ["John Prince"]
+  spec.name          = "iclicker-session"
+  spec.version       = Iclicker::Session::VERSION
+  spec.authors       = ["John T. Prince"]
   spec.email         = ["jtprince@gmail.com"]
   spec.description   = %q{TODO: Write a gem description}
   spec.summary       = %q{TODO: Write a gem summary}

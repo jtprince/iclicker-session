@@ -1,13 +1,13 @@
-# Iclickerpoll::Snazzy
+# Iclicker::Session
 
-Some utilities to snazz up siefkenj's OS independent
+Some utilities to spice up siefkenj's awesome OS independent
 [iclickerpoll](https://github.com/siefkenj/iclickerpoll)
 
 ## Examples
 
 ## Installation
 
-    gem install iclickerpoll-snazzy
+    gem install iclicker-session
 
 ## License
 
