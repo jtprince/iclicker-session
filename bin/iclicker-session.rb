@@ -1,3 +1,7 @@
 #!/usr/bin/env ruby
 
-require 'iclicker-session'
+require 'iclicker/session'
+
+Iclicker::Session.run(ARGV)
+
+
